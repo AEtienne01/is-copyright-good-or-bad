@@ -1,0 +1,1 @@
+# is-copyright-good-or-bad
